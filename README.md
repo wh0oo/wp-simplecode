@@ -1,2 +1,2 @@
 # wp-simplecode
-Home for simplecode plugin I made
+Home for WordPress simplecode plugin I made
